@@ -39,7 +39,7 @@ You'll notice that we are using container and presentational components to separ
 - The purpose of this mini-project is to expose you to the world of asyncronous Redux.
 - **Notice** the `package.json`. We have included a few new packages here for you.
 
-  - `redux-thunk redux-logger and axios`.
+  - `redux-thunk redux-logger and axios`
 
 - `axios` isn't something new to you, you've used it before to make **Asynchronous JavaScript and XML** requests.
 - `redux-thunk` and `redux-logger` are the technologies you'll be introduced to here.
